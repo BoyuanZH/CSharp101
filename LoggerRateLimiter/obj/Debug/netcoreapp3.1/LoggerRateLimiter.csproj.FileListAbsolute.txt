@@ -1,0 +1,13 @@
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\bin\Debug\netcoreapp3.1\LoggerRateLimiter.exe
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\bin\Debug\netcoreapp3.1\LoggerRateLimiter.deps.json
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\bin\Debug\netcoreapp3.1\LoggerRateLimiter.runtimeconfig.json
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\bin\Debug\netcoreapp3.1\LoggerRateLimiter.runtimeconfig.dev.json
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\bin\Debug\netcoreapp3.1\LoggerRateLimiter.dll
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\bin\Debug\netcoreapp3.1\LoggerRateLimiter.pdb
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.csprojAssemblyReference.cache
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.csproj.CoreCompileInputs.cache
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.AssemblyInfoInputs.cache
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.AssemblyInfo.cs
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.dll
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.pdb
+C:\Users\6104655\source\repos\CSharp101\LoggerRateLimiter\obj\Debug\netcoreapp3.1\LoggerRateLimiter.genruntimeconfig.cache

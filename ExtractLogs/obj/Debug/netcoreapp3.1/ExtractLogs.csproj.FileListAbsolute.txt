@@ -1,0 +1,13 @@
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.csprojAssemblyReference.cache
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.csproj.CoreCompileInputs.cache
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.AssemblyInfoInputs.cache
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.AssemblyInfo.cs
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\bin\Debug\netcoreapp3.1\ExtractLogs.exe
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\bin\Debug\netcoreapp3.1\ExtractLogs.deps.json
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\bin\Debug\netcoreapp3.1\ExtractLogs.runtimeconfig.json
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\bin\Debug\netcoreapp3.1\ExtractLogs.runtimeconfig.dev.json
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\bin\Debug\netcoreapp3.1\ExtractLogs.dll
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\bin\Debug\netcoreapp3.1\ExtractLogs.pdb
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.dll
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.pdb
+C:\Users\6104655\source\repos\CSharp101\ExtractLogs\obj\Debug\netcoreapp3.1\ExtractLogs.genruntimeconfig.cache

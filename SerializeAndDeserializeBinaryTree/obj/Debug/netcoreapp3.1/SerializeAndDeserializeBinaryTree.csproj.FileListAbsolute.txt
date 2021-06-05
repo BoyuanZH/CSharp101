@@ -1,0 +1,13 @@
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.csprojAssemblyReference.cache
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.AssemblyInfoInputs.cache
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.AssemblyInfo.cs
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\bin\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.exe
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\bin\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.deps.json
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\bin\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.runtimeconfig.json
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\bin\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.runtimeconfig.dev.json
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\bin\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.dll
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\bin\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.pdb
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.dll
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.pdb
+C:\Users\6104655\source\repos\CSharp101\SerializeAndDeserializeBinaryTree\obj\Debug\netcoreapp3.1\SerializeAndDeserializeBinaryTree.genruntimeconfig.cache
